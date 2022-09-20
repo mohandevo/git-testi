@@ -1,0 +1,24 @@
+{
+  "name": "git-testi",
+  "version": "1.0.0",
+  "description": "this is a test directory to learn git and node",
+  "main": "index.html",
+  "scripts": {
+    "start":"npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite":"lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://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@github.com/mohandevo/git-testi.git"
+  },
+  "author": "\"mohan\"",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mohandevo/git-testi/issues"
+  },
+  "homepage": "https://github.com/mohandevo/git-testi#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
